@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 use Apache2::Access;
-use Apache2::Module;
+use Apache2::Module qw/add/;
 use Apache2::Directive;
 use Apache2::RequestUtil;
 use Apache2::RequestRec;
