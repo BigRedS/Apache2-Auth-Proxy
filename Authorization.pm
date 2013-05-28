@@ -1,4 +1,4 @@
-package Apache2::Auth::Proxy::Authorization
+package Apache2::Auth::Proxy::Authorization;
   
 use strict;
 use warnings;
